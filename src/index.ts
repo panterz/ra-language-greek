@@ -187,7 +187,6 @@ const elMessages: TranslationMessages = {
         },
         configurable: {
             customize: 'Προσαρμόστε',
-            templateError: '## Σφάλμα Προτύπου',
             configureMode: 'Διαμορφώστε αυτή τη σελίδα',
             inspector: {
                 title: 'Επιθεωρητής',
